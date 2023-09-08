@@ -1,4 +1,4 @@
-# e_commerce
+# e-Commece
 
 A new Flutter project.
 
